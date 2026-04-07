@@ -16,7 +16,7 @@ npm install npm@latest -g
 
 ### Installing
 
-1. Clone this repository and navigate inside this project's folder ([facial-recognition demo](https://github.com/adm-ashley/facial-recognition-demo.git)).
+1. Clone this repository and navigate inside this project's folder.
    ```sh
    git clone https://github.com/adm-ashley/facial-recognition-demo.git
    ```
