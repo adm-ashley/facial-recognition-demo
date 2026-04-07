@@ -4,7 +4,7 @@ Follow these instructions to get a copy of the project running on your local mac
 
 ### Prerequisites
 
-This project requires [Node.js](https://nodejs.org/en/download/package-manager/) and [npm](https://www.npmjs.com/get-npm) to be installed.
+This project requires [Node.js](https://nodejs.org/en/download/package-manager/) and [npm](https://www.npmjs.com/get-npm) to be installed. In Terminal:
 
 ```sh
 brew install node
