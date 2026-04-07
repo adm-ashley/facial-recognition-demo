@@ -1,0 +1,27 @@
+<html>
+  <head>
+    <title>Facial Recognition Demo</title>
+    <style>
+      #overlay,
+      .overlay {
+        position: absolute;
+        top: 0;
+        left: 0;
+      }
+      body {
+        margin: 0px;
+        padding: 0px;
+      }
+    </style>
+  </head>
+  <body>
+    <img src="img/friends-group.jpg" id="original_image" />
+    <canvas id="gui_overlay" class="overlay"></canvas>
+
+    <script src="js/jquery-2.1.1.min.js"></script>
+    <script src="js/face-api.js"></script>
+
+    <!-- this is our code -->
+    <script src="app.js"></script>
+  </body>
+</html>
