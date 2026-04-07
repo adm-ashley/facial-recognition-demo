@@ -1,6 +1,4 @@
-# Facial Recognition Demo
-
-## Instructions
+## Facial Recognition Demo
 
 Follow these instructions to get a copy of the project running on your local machine.
 
